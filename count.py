@@ -7,3 +7,5 @@ def count(num):
 
 
 count(12345)
+x = 1
+print(x)
